@@ -2,10 +2,9 @@
  * File:   main.c
  * Author: Fiona Bianchi
  *
- * Based on the code found here: 
- * Hacked around quite a bit based on the hello world program:
+ * Based on the code found here: http://burningsmell.org/pic16f628/src/0026-pwm.c
+ * Hacked around quite a bit based on the hello world program: https://github.com/fionahiklas/pic_hello_world
  *  
- *
  */
 
 
